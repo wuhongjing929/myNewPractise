@@ -6,4 +6,3 @@ return 0;
 }
 
 
-hahaha   woshi wuhongjing.
